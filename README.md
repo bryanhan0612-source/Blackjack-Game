@@ -11,6 +11,7 @@ How to play:
 4. The dealer will draw cards until their total is 17 or higher.
 5. The winner is determined based on Blackjack rules.
 6. The game automatically resets after a short delay.
+7. Every player has a balance of $500. Every bet is $10 and if you keep losing and go to $0, the game is over. 
 
 Technologies Used
 - HTML5
