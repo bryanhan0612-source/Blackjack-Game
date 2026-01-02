@@ -6,8 +6,8 @@ How to play:
 1. Open blackjack.html in any web browser.
 2. You are dealt two cards; the dealer gets one visible card and one hidden card.
 3. Choose an action:
-- Hit → Draw another card
-- Stay → End your turn
+- Hit: Draw another card
+- Stay: End your turn
 4. The dealer will draw cards until their total is 17 or higher.
 5. The winner is determined based on Blackjack rules.
 6. The game automatically resets after a short delay.
